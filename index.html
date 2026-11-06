@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#123c4a">
+  <meta name="description" content="Çocuk Romatoloji: kılavuzlar, algoritmalar, klinik skorlar ve pozoloji.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Çocuk Romatoloji">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="style.css">
+  <title>Çocuk Romatoloji | Klinik Araçlar</title>
+</head>
+<body>
+<svg class="svg-sprite" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></symbol>
+  <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z"/><path d="M9 7h6M9 11h8"/></symbol>
+  <symbol id="i-score" viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M8 8h2M14 8h2M8 13h8M8 17h8"/></symbol>
+  <symbol id="i-pill" viewBox="0 0 24 24"><path d="m10.5 4.5 9 9a5.3 5.3 0 0 1-7.5 7.5l-9-9a5.3 5.3 0 0 1 7.5-7.5Z"/><path d="m8 17 9-9"/></symbol>
+  <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10Z"/><path d="M9 12.5 11 14l4-4"/></symbol>
+  <symbol id="i-news" viewBox="0 0 24 24"><path d="M4 5h14v14H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Z"/><path d="M18 9h2a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H6"/><path d="M7 9h4v4H7zM14 9h2M14 12h2M7 16h9"/></symbol>
+  <symbol id="i-bell" viewBox="0 0 24 24"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 7-3 9h18c0-2-3-2-3-9ZM10 21h4"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="7"/><path d="m16 16 5 5"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+  <symbol id="i-chevron" viewBox="0 0 24 24"><path d="m9 18 6-6-6-6"/></symbol>
+  <symbol id="i-back" viewBox="0 0 24 24"><path d="m15 18-6-6 6-6"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l4 2"/></symbol>
+  <symbol id="i-alert" viewBox="0 0 24 24"><path d="m10.3 3.8-8 14A2 2 0 0 0 4 20h16a2 2 0 0 0 1.7-2.2l-8-14a2 2 0 0 0-3.4 0Z"/><path d="M12 9v4m0 3h.01"/></symbol>
+  <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 10v6m0-9h.01"/></symbol>
+  <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></symbol>
+  <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-9 9"/><path d="M20 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h5"/></symbol>
+  <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"/></symbol>
+  <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/></symbol>
+  <symbol id="i-heart" viewBox="0 0 24 24"><path d="M20.8 8.2c0 5.1-8.8 11-8.8 11s-8.8-5.9-8.8-11a4.8 4.8 0 0 1 8.8-2.5 4.8 4.8 0 0 1 8.8 2.5Z"/></symbol>
+  <symbol id="i-filter" viewBox="0 0 24 24"><path d="M4 7h16M7 12h10M10 17h4"/></symbol>
+  <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3"/></symbol>
+</svg>
+<div class="layout">
+  <aside class="sidebar" id="sidebar">
+    <a href="#home" class="brand" aria-label="Çocuk Romatoloji ana sayfa">
+      <div class="brand-mark"><span>Ç<span class="brand-plus">+</span></span></div>
+      <div class="brand-words"><strong>Çocuk <span>Romatoloji</span></strong></div>
+    </a>
+    <div class="sidebar-section-label">ÇALIŞMA ALANI</div>
+    <nav id="desktopNav" class="main-nav" aria-label="Ana navigasyon"></nav>
+    <div class="sidebar-bottom">
+      <div class="prototype-version"><span class="online-dot"></span> Sürüm <span>v0.53</span></div>
+    </div>
+  </aside>
+  <div class="main-column">
+    <header class="topbar">
+      <div class="topbar-breadcrumb"><span>Çocuk Romatoloji</span><svg class="icon"><use href="#i-chevron"/></svg><strong id="breadcrumb">Genel Bakış</strong></div>
+      <div class="top-actions"><button class="search-trigger" id="openSearch" type="button"><svg class="icon"><use href="#i-search"/></svg><span>Sitede ara</span><kbd>⌘ K</kbd></button><div class="top-avatar" title="Klinik araçlar">ÇR</div></div>
+    </header>
+    <main id="app" class="page-content" tabindex="-1"></main>
+    <footer class="site-footer"><span>© 2026 Çocuk Romatoloji</span><span>Klinik karar destek araçları</span></footer>
+  </div>
+</div>
+<nav class="bottom-nav" id="mobileNav" aria-label="Mobil navigasyon"></nav>
+<div class="mobile-menu-backdrop" id="mobileBackdrop" hidden></div>
+<aside class="mobile-drawer" id="mobileDrawer" aria-label="Tüm bölümler" aria-hidden="true"><div class="drawer-head"><strong>Diğer bölümler</strong><button type="button" class="icon-button" id="closeDrawer" aria-label="Menüyü kapat"><svg class="icon"><use href="#i-x"/></svg></button></div><div id="mobileDrawerItems"></div></aside>
+<div class="search-overlay" id="searchOverlay" hidden><div class="search-box" role="dialog" aria-modal="true" aria-label="Sitede ara"><div class="search-input-row"><svg class="icon"><use href="#i-search"/></svg><input id="globalSearch" type="search" placeholder="Skor, ilaç, kılavuz ara..." autocomplete="off"><button id="closeSearch" class="icon-button" type="button" aria-label="Kapat"><svg class="icon"><use href="#i-x"/></svg></button></div><div id="searchResults" class="search-results"></div><p class="search-hint">Bir sonuca dokunarak ilgili bölümü açın.</p></div></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="sle.js" defer></script>
+<script src="targets.js" defer></script>
+<script src="jia.js" defer></script>
+<script src="jdm.js" defer></script>
+<script src="scleroderma.js" defer></script>
+<script src="vasculitis.js" defer></script>
+<script src="fmf.js" defer></script>
+<script src="cno.js" defer></script>
+<script src="pozoloji.js" defer></script>
+<script src="aav.js" defer></script>
+<script src="behcet.js" defer></script>
+<script src="cno-treatment.js" defer></script>
+<script src="ra.js" defer></script>
+<script src="biologic-safety.js" defer></script>
+<script src="jia-treatment.js" defer></script>
+<script src="uveitis.js" defer></script>
+<script src="vaccines.js" defer></script>
+<script src="psa.js" defer></script>
+<script src="guidelines.js" defer></script>
+<script src="lupus-nephritis.js" defer></script>
+<script src="clinical-support.js" defer></script>
+<script src="ek4d-data.js" defer></script>
+<script src="sut-il1-rules.js" defer></script>
+<script src="sut-other-rules.js" defer></script>
+<script src="sut-next-rules.js" defer></script>
+<script src="sut-v44-rules.js" defer></script>
+<script src="sut-support.js" defer></script>
+<script src="sut-smart.js" defer></script>
+<script src="app.js" defer></script>
+</body>
+</html>

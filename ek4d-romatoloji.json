@@ -1,0 +1,3081 @@
+{
+  "version": "02.10.2026",
+  "scope": "Seçilmiş romatoloji etken maddeleri ve ilişkili ICD tanıları; kesin geri ödeme kararı değildir",
+  "rows": [
+    {
+      "drug": "Anakinra",
+      "icd": "E85.0",
+      "heading": "FMF",
+      "clause": "6.2.3",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Kanakinumab",
+      "icd": "E85.0",
+      "heading": "FMF",
+      "clause": "6.2.2",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "E85.0",
+      "heading": "Herediter otoinflamatuvar hastalıklar",
+      "clause": "EK-4/D 15.13.1",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "L50.8",
+      "heading": "Herediter otoinflamatuvar hastalıklar",
+      "clause": "EK-4/D 15.13.1",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "E85.0",
+      "heading": "Herediter otoinflamatuvar hastalıklar",
+      "clause": "EK-4/D 15.13.2",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "L50.8",
+      "heading": "Herediter otoinflamatuvar hastalıklar",
+      "clause": "EK-4/D 15.13.2",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Kanakinumab",
+      "icd": "E85.0",
+      "heading": "Herediter otoinflamatuvar hastalıklar",
+      "clause": "EK-4/D 15.13.3",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Kanakinumab",
+      "icd": "L50.8",
+      "heading": "Herediter otoinflamatuvar hastalıklar",
+      "clause": "EK-4/D 15.13.3",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "R50.9",
+      "heading": "Periyodik ateş",
+      "clause": "15.16.2",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Kanakinumab",
+      "icd": "R50.9",
+      "heading": "Periyodik ateş",
+      "clause": "15.16.1",
+      "star": true,
+      "note": "EK-4/D NOT 2: endikasyon uyumu / Bakanlıkça izin verilen endikasyon dışı kullanım gereklidir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Antibiyotikler",
+      "icd": "M86.3",
+      "heading": "Osteomiyelit",
+      "clause": "15.10.1",
+      "star": false,
+      "note": "Enfeksiyon hastalıkları uzman hekimi raporu koşulu ayrıca kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Antibiyotikler",
+      "icd": "M86.4",
+      "heading": "Osteomiyelit",
+      "clause": "15.10.1",
+      "star": false,
+      "note": "Enfeksiyon hastalıkları uzman hekimi raporu koşulu ayrıca kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Antibiyotikler",
+      "icd": "M86.5",
+      "heading": "Osteomiyelit",
+      "clause": "15.10.1",
+      "star": false,
+      "note": "Enfeksiyon hastalıkları uzman hekimi raporu koşulu ayrıca kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Antibiyotikler",
+      "icd": "M86.6",
+      "heading": "Osteomiyelit",
+      "clause": "15.10.1",
+      "star": false,
+      "note": "Enfeksiyon hastalıkları uzman hekimi raporu koşulu ayrıca kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anti-TNF (ilaç grubu)",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.14",
+      "star": true,
+      "note": "Grup satırıdır. Etken madde için ruhsat/izin, SUT, ilaç-özel hükümler ayrıca kontrol edilir.",
+      "scope": "group",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Metotreksat",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.10",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Azatioprin",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.4",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Leflunomid",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.9",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Siklosporin",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.12",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Mikofenolat mofetil",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.20",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Rituksimab",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.18",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Anakinra",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.16",
+      "star": true,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M05",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M06",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M08.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M08.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M08.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.5",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.7",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M35.8",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M33.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M33.1",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M33.2",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M30.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M31.4",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M31.6",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M45",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M07.0",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sulfasalazin",
+      "icd": "M07.3",
+      "heading": "Romatolojik hastalıklar 9.1",
+      "clause": "9.2.13",
+      "star": false,
+      "note": "9.1 hastalık grubuna bağlı genel satır. İlaca özel ek kısıt ve SUT kullanımı ayrıca kontrol edilmelidir.",
+      "scope": "generic",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M05",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M06",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M08.0",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M08.2",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M08.3",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.0",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.1",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.3",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.4",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.5",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.6",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.7",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Abatasept",
+      "icd": "M35.8",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.23",
+      "star": false,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M05",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M06",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M08.0",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M08.2",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M08.3",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.0",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.1",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.3",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.4",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.5",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.6",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.7",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Barisitinib",
+      "icd": "M35.8",
+      "heading": "Romatoid artrit ve ilişkili sendromlar 9.1.5",
+      "clause": "9.2.30",
+      "star": true,
+      "note": "Yalnızca EK-4/D 9.1.5 ICD-10 kodları.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M05",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M06",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M08.0",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M08.2",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M08.3",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.0",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.1",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.3",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.4",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.5",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.6",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.7",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M35.8",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M31.6",
+      "heading": "RA ilişkili sendromlar / temporal arterit",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "Ayrıca Takayasu M31.4 için Bakanlık ek onaysız kullanım listesi koşulu; ayrıca doğrulama gerekir.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tosilizumab",
+      "icd": "M31.4",
+      "heading": "Takayasu arteriti",
+      "clause": "9.2.22",
+      "star": false,
+      "note": "EK-4/D: Bakanlık Endikasyon Dışı İlaç Kullanım Kılavuzundaki TİTCK ek onaysız liste koşuluyla sınırlı.",
+      "scope": "conditional",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Kanakinumab",
+      "icd": "M06.1",
+      "heading": "Erişkin Still/JİA",
+      "clause": "9.2.26",
+      "star": true,
+      "note": "Yalnızca M06.1 ve M08.0 için muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Kanakinumab",
+      "icd": "M08.0",
+      "heading": "Erişkin Still/JİA",
+      "clause": "9.2.26",
+      "star": true,
+      "note": "Yalnızca M06.1 ve M08.0 için muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M05",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M06",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M08.0",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M08.2",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M08.3",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.0",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.1",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.3",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.4",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.5",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.6",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.7",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M35.8",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M45",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M07.0",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Tofasitinib",
+      "icd": "M07.3",
+      "heading": "RA ve seçili spondiloartropatiler",
+      "clause": "9.2.27",
+      "star": true,
+      "note": "9.1.5, 9.1.6.2 ve 9.1.6.4 kapsamı. Eski metin değişiklik bilgileri ayrıca gözden geçirilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M05",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M06",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M08.0",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M08.2",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M08.3",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.0",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.1",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.3",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.4",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.5",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.6",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.7",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M35.8",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M45",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M07.0",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M07.3",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Upadasitinib",
+      "icd": "M31.6",
+      "heading": "RA/spondiloartrit/temporal arterit",
+      "clause": "9.2.33",
+      "star": true,
+      "note": "Sadece 9.1.3.8, 9.1.5, 9.1.6.2, 9.1.6.4.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Ustekinumab",
+      "icd": "M07.0",
+      "heading": "Psöriatik artrit",
+      "clause": "EK-4/D 9.2.28",
+      "star": true,
+      "note": "Yalnızca psöriatik artrit kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Ustekinumab",
+      "icd": "M07.3",
+      "heading": "Psöriatik artrit",
+      "clause": "EK-4/D 9.2.28",
+      "star": true,
+      "note": "Yalnızca psöriatik artrit kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "İksekizumab",
+      "icd": "M07.0",
+      "heading": "Psöriatik artrit",
+      "clause": "EK-4/D 9.2.31",
+      "star": true,
+      "note": "Yalnızca psöriatik artrit kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "İksekizumab",
+      "icd": "M07.3",
+      "heading": "Psöriatik artrit",
+      "clause": "EK-4/D 9.2.31",
+      "star": true,
+      "note": "Yalnızca psöriatik artrit kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Apremilast",
+      "icd": "M07.0",
+      "heading": "Psöriatik artrit",
+      "clause": "EK-4/D 9.2.32",
+      "star": true,
+      "note": "Yalnızca psöriatik artrit kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Apremilast",
+      "icd": "M07.3",
+      "heading": "Psöriatik artrit",
+      "clause": "EK-4/D 9.2.32",
+      "star": true,
+      "note": "Yalnızca psöriatik artrit kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sekukinumab",
+      "icd": "M07.0",
+      "heading": "Psöriatik artrit ve ankilozan spondilit",
+      "clause": "9.2.29",
+      "star": true,
+      "note": "Yalnızca belirtilen PsA ve AS kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sekukinumab",
+      "icd": "M07.3",
+      "heading": "Psöriatik artrit ve ankilozan spondilit",
+      "clause": "9.2.29",
+      "star": true,
+      "note": "Yalnızca belirtilen PsA ve AS kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Sekukinumab",
+      "icd": "M45",
+      "heading": "Psöriatik artrit ve ankilozan spondilit",
+      "clause": "9.2.29",
+      "star": true,
+      "note": "Yalnızca belirtilen PsA ve AS kodlarında muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "İntravenöz immünglobulin",
+      "icd": "M30.3",
+      "heading": "Kawasaki",
+      "clause": "9.2.15",
+      "star": true,
+      "note": "Yalnızca Kawasaki için muafiyet.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Nintedanib",
+      "icd": "M34.0",
+      "heading": "Progresif sistemik skleroz",
+      "clause": "9.2.34",
+      "star": true,
+      "note": "Yalnızca M34.0.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Bosentan",
+      "icd": "M34.9",
+      "heading": "Sistemik skleroz dijital ülser",
+      "clause": "9.2.25",
+      "star": true,
+      "note": "Yalnız sistemik skleroza bağlı dijital ülser endikasyonunda.",
+      "scope": "conditional",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Bosentan",
+      "icd": "M34.0",
+      "heading": "Sistemik skleroz dijital ülser",
+      "clause": "9.2.25",
+      "star": true,
+      "note": "Yalnız sistemik skleroza bağlı dijital ülser endikasyonunda.",
+      "scope": "conditional",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Adalimumab",
+      "icd": "K50",
+      "heading": "İnflamatuvar bağırsak hastalıkları",
+      "clause": "EK-4/D 6.3.9",
+      "star": true,
+      "note": "İBH başlığı kapsamında endikasyon ve SUT özel koşulları kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Adalimumab",
+      "icd": "K51",
+      "heading": "İnflamatuvar bağırsak hastalıkları",
+      "clause": "EK-4/D 6.3.9",
+      "star": true,
+      "note": "İBH başlığı kapsamında endikasyon ve SUT özel koşulları kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "Adalimumab",
+      "icd": "K52",
+      "heading": "İnflamatuvar bağırsak hastalıkları",
+      "clause": "EK-4/D 6.3.9",
+      "star": true,
+      "note": "İBH başlığı kapsamında endikasyon ve SUT özel koşulları kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "İnfliksimab",
+      "icd": "K50",
+      "heading": "İnflamatuvar bağırsak hastalıkları",
+      "clause": "EK-4/D 6.3.7",
+      "star": true,
+      "note": "İBH başlığı kapsamında endikasyon ve SUT özel koşulları kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "İnfliksimab",
+      "icd": "K51",
+      "heading": "İnflamatuvar bağırsak hastalıkları",
+      "clause": "EK-4/D 6.3.7",
+      "star": true,
+      "note": "İBH başlığı kapsamında endikasyon ve SUT özel koşulları kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    },
+    {
+      "drug": "İnfliksimab",
+      "icd": "K52",
+      "heading": "İnflamatuvar bağırsak hastalıkları",
+      "clause": "EK-4/D 6.3.7",
+      "star": true,
+      "note": "İBH başlığı kapsamında endikasyon ve SUT özel koşulları kontrol edilmeli.",
+      "scope": "specific",
+      "source": "EK-4/D · 02.10.2026"
+    }
+  ],
+  "notes": [
+    "EK-4/D NOT 1: EK-4/A dışında ilaç ödenemez.",
+    "EK-4/D NOT 2: yıldızlı etken maddeler için endikasyon uyumu veya izin verilmiş endikasyon dışı kullanım gerekir.",
+    "EK-4/D NOT 3: ana ICD kodu alt kodları içerir; yalnız alt kod verildiğinde üst koddan alt kod türetilmez."
+  ]
+}
